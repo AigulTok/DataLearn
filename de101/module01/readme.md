@@ -8,4 +8,4 @@
 
 ## Аналитика в Excel
 
-![2 задание](https://github.com/AigulTok/DataLearn/blob/aigul/adding_text/de101/module01/Dashboard.png)
+![2 задание](https://github.com/AigulTok/DataLearn/blob/main/de101/module01/Dashboard.PNG)
